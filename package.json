@@ -2,8 +2,6 @@
   "name": "my-react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://reactapp-bucket-1010.ap-south-1.amazonaws.com"
-
 
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
